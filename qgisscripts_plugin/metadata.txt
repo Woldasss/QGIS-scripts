@@ -1,0 +1,6 @@
+[general]
+name=QGIS Scripts Plugin
+qgisMinimumVersion=3.0
+version=0.1
+email=p.woldanski@gmail.com
+description=Collection of custom Python scripts packaged as a QGIS plugin
